@@ -13,8 +13,9 @@ ENG_DryDock serves as a large engineering bay designed for docking and maintenan
 
 <img width="641" height="267" alt="ENG_DryDock Screenshot" src="https://github.com/user-attachments/assets/a6c1a597-7a62-4f0c-a639-ee08b33f7b8f" /> 
 
-![HUB_JOURNAL_I23](https://github.com/user-attachments/assets/b9311539-8cce-4825-9227-f565660e0c5c)
+<img width="201" height="138" alt="Screenshot 2025-08-02 125800" src="https://github.com/user-attachments/assets/7dc81221-6a10-495c-940f-0862b6345ede" />
 
+The following link is: https://soundcloud.com/mattfiler98/amb-docks-cargo 
 
 ---
 ### 🛰️ ENG_Gravity_Anchor  
@@ -86,4 +87,5 @@ Feel free to reach out if you’re interested in collaboration, feedback, or tec
 - Not affiliated with Creative Assembly or SEGA.  
 - All rights to *Alien: Isolation* belong to their respective owners.  
 - Educational and preservation goals only.
+- ** Disclaimer: I am referencing information from ChatGPT, the Alien Isolation links, and OpenCAGE (Made by Matt Filer) **
 ---
