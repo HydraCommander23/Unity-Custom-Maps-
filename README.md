@@ -2,7 +2,7 @@
 
 ![header](https://github.com/user-attachments/assets/9a797edf-8836-4f99-b4a4-1fd938bd1aa3)
 
-- This repo contains my custom versions of unused or cut areas from *Alien: Isolation*, made in **Unity 2022.3.9f1**. The original game has many doors, elevators, and areas that you can't access — likely removed late in development.  
+- This repo will constain my custom versions of unused or cut areas from *Alien: Isolation*, made in **Unity 2022.3.9f1**. The original game has many doors, elevators, and areas that you can't access — likely removed late in development.  
 - My plan is to develop and recreate what the game might have played like if these areas were kept or added in.
 
 ---
