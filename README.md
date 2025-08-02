@@ -136,7 +136,7 @@ A colleague disappeared during the last EVA. No distress call, no trace. The ext
 ## 🖼️ Screenshots
 
 - Will be updated as needed.
-- 
+
 ---
 
 ## 📬 Contact Me
