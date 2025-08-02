@@ -8,6 +8,9 @@
 ---
 
 ## 📂 Areas Currently Being Envisioned
+- ENG_DryDock / ENG_DryDockCargo
+- ENG_Gravity_Anchor
+
 ### 🔧 ENG_DryDock / ENG_DryDockCargo  
 ENG_DryDock serves as a large engineering bay designed for docking and maintenance of incoming freighters and engineering modules on Sevastopol Station. It includes sealed airlocks, cargo lifts, mooring clamps, and support infrastructure for ship servicing. ENG_DryDockCargo functions as an adjacent freight handling zone, potentially integrating automated Working Joe systems for efficient cargo transport and inventory management.
 
@@ -87,5 +90,5 @@ Feel free to reach out if you’re interested in collaboration, feedback, or tec
 - Not affiliated with Creative Assembly or SEGA.  
 - All rights to *Alien: Isolation* belong to their respective owners.  
 - Educational and preservation goals only.
-- ** Disclaimer: I am referencing information from ChatGPT, the Alien Isolation links, and OpenCAGE (Made by Matt Filer) **
+-  **Disclaimer: I am referencing information from ChatGPT, the Alien Isolation links, and OpenCAGE (Made by Matt Filer)**
 ---
