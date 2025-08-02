@@ -9,7 +9,6 @@
 ## 📂 Areas currently being envisoned 
 ### 🔧 ENG_DryDock/ENG_DryDockCargo
 A conceptual drydock and maintenance bay for incoming freighters or engineering modules.
-![HUB_JOURNAL_I23](https://github.com/user-attachments/assets/232359ae-14c7-4d73-8810-0d4dcc13af2d)
 
 <img width="641" height="267" alt="Screenshot 2025-08-02 120835" src="https://github.com/user-attachments/assets/a6c1a597-7a62-4f0c-a639-ee08b33f7b8f" /> 
 
