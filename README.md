@@ -144,7 +144,7 @@ A colleague disappeared during the last EVA. No distress call, no trace. The ext
 Feel free to reach out if you’re interested in collaboration, feedback, or technical discussion.
 
 - **Discord** or **Snapchat** *(handles shared upon request)*
-- 
+
 ---
 ## 🚧 Notes
 - This is an unofficial fan project.  
