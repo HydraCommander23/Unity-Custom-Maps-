@@ -19,7 +19,7 @@ ENG_Gravity_Anchor is an external engineering section focused on orbital stabili
 
 <img width="300" height="671" alt="ENG_Gravity_Anchor Screenshot" src="https://github.com/user-attachments/assets/652ea5d9-a1c1-4c4e-8947-3acfbc5beb9b" /> 
 
-https://github.com/HydraCommander23/Unity-Custom-Maps-/blob/main/Alien%20Isolation%20pic%204.png
+<img width="1377" height="751" alt="Alien Isolation pic 4" src="https://github.com/user-attachments/assets/424ed066-6c60-490c-bfaf-ace54a2193b6" />
 
 
 ---
