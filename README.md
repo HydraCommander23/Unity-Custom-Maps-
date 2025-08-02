@@ -13,6 +13,9 @@ ENG_DryDock serves as a large engineering bay designed for docking and maintenan
 
 <img width="641" height="267" alt="ENG_DryDock Screenshot" src="https://github.com/user-attachments/assets/a6c1a597-7a62-4f0c-a639-ee08b33f7b8f" /> 
 
+![HUB_JOURNAL_I23](https://github.com/user-attachments/assets/b9311539-8cce-4825-9227-f565660e0c5c)
+
+
 ---
 ### 🛰️ ENG_Gravity_Anchor  
 ENG_Gravity_Anchor is an external engineering section focused on orbital stabilization systems critical to maintaining Sevastopol’s geosynchronous orbit. This zone includes stabilizer thrusters, anchoring mechanisms, exposed bulkheads, and access walkways. The environment is highly industrial and claustrophobic, with hazards such as vacuum exposure and system malfunctions posing risks to maintenance crews.
