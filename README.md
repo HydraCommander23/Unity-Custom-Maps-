@@ -3,14 +3,17 @@
 ![header](https://github.com/user-attachments/assets/9a797edf-8836-4f99-b4a4-1fd938bd1aa3)
 
 - This repo will contain my custom versions of unused or cut areas from Alien: Isolation, made in Unity 2022.3.9f1. The original game has many doors, elevators, and areas that you can't access — likely removed late in development. 
-- My plan is to develop/recreate what the game might have play4ed like if they were added in. 
+- My plan is to develop/recreate what the game might have played like if they were kept/added in. 
 
 
 ## 📂 Areas currently being envisoned 
 ### 🔧 ENG_DryDock/ENG_DryDockCargo
 A conceptual drydock and maintenance bay for incoming freighters or engineering modules.
 
+
 <img width="641" height="267" alt="Screenshot 2025-08-02 120835" src="https://github.com/user-attachments/assets/a6c1a597-7a62-4f0c-a639-ee08b33f7b8f" /> 
+
+![HUB_JOURNAL_I23](https://github.com/user-attachments/assets/8e2a02dc-969f-41e6-96ce-b689d4764c01)
 
 ---
 
@@ -22,12 +25,11 @@ A section involving orbital stabilizers — part of Sevastopol’s external grav
 ---
 
 ### 🛠️ Upcoming Areas  
-TBD. Future maps will be based on cut map geometry, dev tools, and community findings.
-
+- Wil be determined accordingly 
 ---
 
 ## 🖼️ Screenshots
-- Will be updated when able
+- Will be added accordingly 
 
 ---
 
