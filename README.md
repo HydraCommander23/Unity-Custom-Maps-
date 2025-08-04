@@ -10,13 +10,13 @@
 ## 📚 Table of Contents
 <details>
 
-
  <summary>Click to expand</summary> 
  
 - [📂 Areas Currently Being Envisioned](#-areas-currently-being-envisioned)
   - [🔧 ENG_DryDock / ENG_DryDockCargo](#-eng_drydock--eng_drydockcargo)
   - [🛰️ ENG_Gravity_Anchor](#️-eng_gravity_anchor)
   - [🛠️ Upcoming Areas](#️-upcoming-areas)
+- [🗺️ Roadmap](#-roadmap)
 - [🔊 Audio Logs](#-audio-logs)
   - [ENG_DryDock](#eng_drydock)
   - [ENG_DryDockCargo](#eng_drydockcargo)
@@ -60,6 +60,17 @@ The following ambient audio simulates the atmosphere here:
 ### 🛠️ Upcoming Areas
 
 - Will be determined accordingly.
+
+---
+
+## 🗺️ Roadmap
+
+For an overview of development goals, planned features, and what’s coming next in these custom Unity maps, check out the dedicated [Roadmap.md](https://github.com/HydraCommander23/Unity-Custom-Maps-/blob/main/Roadmap.md) document.
+
+This includes:  
+- Milestones for ENG_DryDock, ENG_Gravity_Anchor, and other planned environments.  
+- Planned implementation of navmesh, audio triggers, klaxon systems, etc.  
+- Future areas and features under consideration.
 
 ---
 
@@ -146,11 +157,13 @@ Feel free to reach out if you’re interested in collaboration, feedback, or tec
 - **Discord** or **Snapchat** *(handles shared upon request)*
 
 ---
+
 ## 🚧 Notes
 - This is an unofficial fan project.  
 - Not affiliated with Creative Assembly or SEGA.  
 - All rights to *Alien: Isolation* belong to their respective owners.  
 - Educational and preservation goals only.  
-- **Disclaimer:** I am referencing information from ChatGPT, the Alien Isolation links, and OpenCAGE (Made by Matt Filer).
+- **Disclaimer:** I am referencing information from ChatGPT, the Alien Isolation links, and OpenCAGE (Made by Matt Filer).  
   I am referencing the following: https://avp.fandom.com/wiki/Alien:_Isolation_cut_content, https://avp.fandom.com/wiki/Alien:_Isolation_maps#Sevastopol_-_Engineering_Platform, https://avp.fandom.com/wiki/Alien:_Isolation_deleted_scenes#The_gravity_anchors, https://avp.fandom.com/wiki/Alien:_Isolation_missions#M29_-_Not_in_Final_Game
+
 ---
