@@ -16,7 +16,7 @@
   - [🔧 ENG_DryDock / ENG_DryDockCargo](#-eng_drydock--eng_drydockcargo)
   - [🛰️ ENG_Gravity_Anchor](#️-eng_gravity_anchor)
   - [🛠️ Upcoming Areas](#️-upcoming-areas)
-- [🗺️ Roadmap](#-roadmap)
+- [🗺️ Roadmap](#roadmap)
 - [🔊 Audio Logs](#-audio-logs)
   - [ENG_DryDock](#eng_drydock)
   - [ENG_DryDockCargo](#eng_drydockcargo)
