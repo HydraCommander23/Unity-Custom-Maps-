@@ -146,7 +146,9 @@ A colleague disappeared during the last EVA. No distress call, no trace. The ext
 
 ## 🖼️ Screenshots
 
-- Will be updated as needed.
+<img width="1577" height="603" alt="ENG_Gravity_Anchor 1" src="https://github.com/user-attachments/assets/988e03dd-7a5f-441f-a99d-5d569b3941e5" />
+
+*Not much but is a start; the platform is walkable, you are able to jump, turn around 360, and sprint using shift. 
 
 ---
 
