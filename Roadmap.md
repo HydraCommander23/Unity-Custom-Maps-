@@ -36,7 +36,7 @@ This project aims to recreate the unreleased maps **ENG_DryDock** and **ENG_Grav
 
 ### Map Prototyping
 - [ ] Begin whiteboxing **ENG_DryDock** layout in Unity (ProBuilder)
-- [ ] Block out basic layout for **ENG_Gravity_Anchor**
+- [x] Block out basic layout for **ENG_Gravity_Anchor**
 - [ ] Define key pathways, spawn zones, and objectives
 
 ### Game Design Setup
